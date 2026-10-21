@@ -4,6 +4,12 @@
 
 # ECS — CUSTOM SECURE WEBSITES
 
+<p align="center">
+  <img src="assets/ECS_Digital_Name_Card.png" alt="Elite Cybersecurity Specialist — Official Digital Name Card" width="720" />
+</p>
+
+<p align="center"><strong>ELITE CYBERSECURITY SPECIALIST · OFFICIAL COMPANY NAME CARD</strong></p>
+
 ### High-Assurance Hosting Hardening · Security-First Website Engineering · Privacy-Conscious Infrastructure
 
 **ELITE CYBERSECURITY SPECIALIST · MALAYSIA**  
