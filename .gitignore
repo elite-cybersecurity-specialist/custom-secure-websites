@@ -1,0 +1,24 @@
+# Private customer-specific information must never be committed.
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.ovpn
+*.kdbx
+*.sqlite
+*.db
+*credentials*
+*secret*.json
+*.bak
+*.backup
+*.swp
+.DS_Store
+__pycache__/
+.pytest_cache/
+node_modules/
+.venv/
+venv/
+*.log
