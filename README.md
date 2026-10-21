@@ -1,29 +1,47 @@
 <p align="center">
-  <img src="assets/9-secure-websites.png" alt="Elite Cybersecurity Specialist — Custom Secure Websites" width="100%">
+  <img src="assets/9-secure-websites.png" alt="ELITE CYBERSECURITY SPECIALIST — Custom Secure Websites" width="100%">
 </p>
 
-# ECS — CUSTOM SECURE WEBSITES
+<h1 align="center">CUSTOM SECURE WEBSITES</h1>
+
+<p align="center"><strong>ELITE CYBERSECURITY SPECIALIST · MALAYSIA</strong></p>
+
+<p align="center"><strong>High-Assurance Hosting Hardening &nbsp;|&nbsp; Security-First Website Engineering &nbsp;|&nbsp; Privacy by Design</strong></p>
+
+<p align="center">Business Registration: <strong>202403184091 (MA0319303-P)</strong></p>
 
 <p align="center">
-  <img src="assets/ECS_Digital_Name_Card.png" alt="Elite Cybersecurity Specialist — Official Digital Name Card" width="720" />
+  <img src="assets/ECS_Digital_Name_Card.png" alt="Official Elite Cybersecurity Specialist digital name card" width="720">
 </p>
 
-<p align="center"><strong>ELITE CYBERSECURITY SPECIALIST · OFFICIAL COMPANY NAME CARD</strong></p>
+<p align="center">
+  <a href="https://github.com/elite-cybersecurity-specialist/company-profile/raw/refs/heads/main/pdf/ECS_Company_Profile.pdf">Download Company Profile (PDF)</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/elite-cybersecurity-specialist/company-profile">View Company Profile</a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/elite-cybersecurity-specialist">Other Cybersecurity Subjects</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:Yuhisern@protonmail.com">Contact ECS</a>
+</p>
 
-### High-Assurance Hosting Hardening · Security-First Website Engineering · Privacy-Conscious Infrastructure
+<p align="center">
+  <img alt="Hosting security" src="https://img.shields.io/badge/HOSTING-CIS_L2_%2B_STIG_PRINCIPLES-0866B8?style=for-the-badge&labelColor=08263D">
+  <img alt="Application security" src="https://img.shields.io/badge/WEBSITE-SECURE_CODE-087FAE?style=for-the-badge&labelColor=08263D">
+  <img alt="Security assurance" src="https://img.shields.io/badge/ASSURANCE-TEST_%26_VERIFY-166DB3?style=for-the-badge&labelColor=08263D">
+</p>
 
-**ELITE CYBERSECURITY SPECIALIST · MALAYSIA**  
-**HARDEN. TEST. VERIFY. IMPROVE.**  
-**Public architectural overview · October 2026**
+> [!IMPORTANT]
+> **HARDEN. TEST. VERIFY. IMPROVE.**  
+> Our foundation is **deep hosting-system hardening plus security embedded directly into website source code**. WAF, CDN, DDoS protection and other products are additional layers selected when needed—not substitutes for secure engineering.
 
-**[Download Company Profile](https://github.com/elite-cybersecurity-specialist/company-profile/raw/refs/heads/main/pdf/ECS_Company_Profile.pdf)** · **[View Other Cybersecurity Subjects](https://github.com/elite-cybersecurity-specialist)** · **[Kicksecure High-Assurance Hardening Project](https://github.com/elite-cybersecurity-specialist/hardening-challenge)**
+**ELITE CYBERSECURITY SPECIALIST (ECS)** engineers and hardens public websites, private websites and web applications for organisations requiring stronger security, privacy and reliability. Our method connects the **operator device, administration route, hosting OS, web server, source code, deployment pipeline and recovery systems** into a coherent security architecture.
 
-> **Our advantage: We code with mad security.**  
-> Harden the hosting system. Embed defenses into the website. Protect administration and infrastructure. Test the weaknesses. Verify the protection.
+<p align="center">
+  <img src="assets/ECS-Blue-Security-Pillars.svg" alt="Four ECS website-security foundations: hosting hardening, secure website code, verified assurance and optional security services" width="100%">
+</p>
 
-We build and harden websites for organisations requiring stronger **security, privacy and reliability**. Our foundation is **deep hosting/system hardening and defensive security within the website source code**. WAF, CDN, DDoS mitigation and managed security offerings are additional layers recommended where risk, architecture and budget justify them — not substitutes for secure systems and secure code.
-
-**Architecture status:** The diagrams below illustrate proposed/reference architectures and control objectives. A marked control in a diagram is **not** a claim that all listed controls have been deployed or independently certified for a customer. Actual implementation is determined, tested and recorded per engagement.
+> [!NOTE]
+> **Engineering transparency:** The architecture diagrams below are reference designs and control objectives. Actual implementation, enforcement and acceptance are verified separately for each authorized customer environment. Framework-informed engineering is not a claim of external certification.
 
 ---
 
@@ -48,7 +66,10 @@ We build and harden websites for organisations requiring stronger **security, pr
 
 ## Our Security Foundation
 
-**First, harden the host. Then, harden the website itself.** We do not treat a WAF subscription or a collection of HTTP headers as a complete website-security strategy.
+<p align="center"><strong>HOSTING SECURITY &nbsp;→&nbsp; SECURE CODE &nbsp;→&nbsp; ASSURANCE &nbsp;→&nbsp; DEFENSE IN DEPTH</strong></p>
+
+> [!NOTE]
+> **First, harden the host. Then, harden the website itself.** We do not treat a WAF subscription or a collection of HTTP headers as a complete website-security strategy.
 
 | Security foundation | Engineering focus | Intended outcome |
 |---|---|---|
@@ -57,7 +78,8 @@ We build and harden websites for organisations requiring stronger **security, pr
 | **3. Security testing and evidence** | Threat modeling; approved black-, gray- or white-box assessments; baseline/configuration evidence, runtime tests, remediation, retesting and rollback | Verifiable protection, not a configuration-only claim |
 | **4. Optional additional protection** | WAF, CDN, bot management, DDoS mitigation, edge rate limits, managed detection, specialist DNS or payment services as required | Additional defense in depth matched to risk |
 
-**Key principle:** Secure hosting and secure website code must work together without breaking legitimate functionality. Controls are assessed for effectiveness, compatibility and operational impact before deployment.
+> [!NOTE]
+> **Key principle:** Secure hosting and secure website code must work together without breaking legitimate functionality. Controls are assessed for effectiveness, compatibility and operational impact before deployment.
 
 ## How We Harden Websites
 
@@ -86,6 +108,8 @@ The hosting model matters: dedicated VPS and bare-metal deployments allow more O
 ---
 
 ## Two Website Security Architectures
+
+<p align="center"><img src="https://img.shields.io/badge/METHOD_01-SECURE_PUBLIC_INTERNET-1177BC?style=for-the-badge&labelColor=08263D" alt="Method 1 Public Internet"> <img src="https://img.shields.io/badge/METHOD_02-TOR_PRIVATE_INTERNET-2765A5?style=for-the-badge&labelColor=08263D" alt="Method 2 Tor Private Internet"></p>
 
 Both designs separate the **operator / administrative path** from the **visitor / customer path** and protect the supporting infrastructure. They are alternative architectures selected according to service requirements, not interchangeable promises of invisibility.
 
@@ -137,6 +161,8 @@ Both designs separate the **operator / administrative path** from the **visitor 
 
 ## Eight Security Gates
 
+<p align="center"><img src="assets/ECS-Blue-Eight-Gates.svg" alt="ECS eight security gates, from operator security to payment security" width="100%"></p>
+
 The images organise the complete architecture into eight gates. These are **engineering workstreams**, not a statement that every gate has passed an audit.
 
 | Gate | Domain | What ECS reviews and secures |
@@ -153,6 +179,8 @@ The images organise the complete architecture into eight gates. These are **engi
 See [Security gate engineering checklist](docs/SECURITY_GATES.md).
 
 ## Hosting & Infrastructure Hardening
+
+<p align="center"><img src="https://img.shields.io/badge/BASELINE-CIS_BENCHMARK_LEVEL_2-0A6DAA?style=for-the-badge&labelColor=08263D" alt="CIS Level 2"> <img src="https://img.shields.io/badge/REVIEW-APPLICABLE_DISA_STIG%2FSRG-1478AD?style=for-the-badge&labelColor=08263D" alt="DISA STIG and SRG"></p>
 
 Our hosting hardening approach takes inspiration from the discipline shown in [KHAHP — Kicksecure High-Assurance Hardening Project](https://github.com/elite-cybersecurity-specialist/hardening-challenge) and adapts it to **the actual web-hosting technology**.
 
@@ -172,6 +200,8 @@ CIS Level 2 is a **defense-in-depth benchmark profile**, not a requirement to fo
 **[Detailed hosting hardening methodology →](docs/HOSTING_HARDENING.md)**
 
 ## Security Embedded in Website Code
+
+<p align="center"><img src="https://img.shields.io/badge/APPLICATION-SECURITY_BY_DESIGN-0866B8?style=for-the-badge&labelColor=08263D" alt="Security by design"> <img src="https://img.shields.io/badge/SERVER--SIDE-DENY_BY_DEFAULT-1177BC?style=for-the-badge&labelColor=08263D" alt="Deny by default"></p>
 
 We engineer defensive controls **in server-side logic, configuration, templates, API handlers, build pipelines and deployment workflows**, not just in frontend scripts that users can modify.
 
@@ -200,7 +230,8 @@ ECS may recommend these **after** evaluating the application and hosting threat 
 - **Managed monitoring, log analysis and incident response** where operational support is needed.
 - **Security-focused DNS, secrets, backup and recovery services** where they improve resilience.
 
-**A WAF is not a substitute for fixing broken access control, insecure code or an exposed origin.** For Tor-only services, conventional public-CDN/WAF patterns may not apply; controls must be selected for the onion-service architecture.
+> [!IMPORTANT]
+> **A WAF is not a substitute for fixing broken access control, insecure code or an exposed origin.** For Tor-only services, conventional public-CDN/WAF patterns may not apply; controls must be selected for the onion-service architecture.
 
 ## Websites & Applications We Can Secure
 
@@ -220,6 +251,9 @@ ECS may recommend these **after** evaluating the application and hosting threat 
 | Custom web applications | Purpose-built security architecture suited to customer requirements |
 
 ## Security Engineering Methodology
+
+> [!NOTE]
+> **Every security control should have an owner, configuration intent, enforcement test, compatibility decision, and recovery path.**
 
 **HARDEN → TEST → VALIDATE → REMEDIATE → RE-TEST → MAINTAIN**
 
@@ -255,6 +289,9 @@ Our work is informed by **CIS Benchmarks, applicable DISA STIG/SRG guidance, OWA
 **Framework alignment is not formal accreditation or certification.** Assessment and applicability depend on the customer environment and agreed contract.
 
 ## Customer Engagement & Contact
+
+> [!NOTE]
+> **Request a website-hardening consultation:** Tell us the hosting model, website type, required functionality, desired privacy level and general threat concerns. Do not send passwords, production secrets or confidential vulnerability details in an initial enquiry.
 
 **ELITE CYBERSECURITY SPECIALIST**  
 Business registration: **202403184091 (MA0319303-P)**  
