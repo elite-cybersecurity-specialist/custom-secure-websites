@@ -293,15 +293,27 @@ Our work is informed by **CIS Benchmarks, applicable DISA STIG/SRG guidance, OWA
 > [!NOTE]
 > **Request a website-hardening consultation:** Tell us the hosting model, website type, required functionality, desired privacy level and general threat concerns. Do not send passwords, production secrets or confidential vulnerability details in an initial enquiry.
 
-**ELITE CYBERSECURITY SPECIALIST**  
-Business registration: **202403184091 (MA0319303-P)**  
-Malaysia
+## Connect with Elite Cybersecurity Specialist
 
 **Yuhisern Navaratnam** — Founder · Cybersecurity Engineer  
-**Email:** [Yuhisern@protonmail.com](mailto:Yuhisern@protonmail.com)  
-**WhatsApp:** [+60 17-279 1717](https://wa.me/60172791717)
+**Elite Cybersecurity Specialist** | Malaysia  
+**SSM:** 202403184091 (MA0319303-P)
 
-**[Download Company Profile (PDF)](https://github.com/elite-cybersecurity-specialist/company-profile/raw/refs/heads/main/pdf/ECS_Company_Profile.pdf)** · **[Explore All ECS Cybersecurity Subjects](https://github.com/elite-cybersecurity-specialist)**
+<p align="center">
+  <a href="https://raw.githubusercontent.com/elite-cybersecurity-specialist/battle-hardened-ai/main/assets/ECS_Digital_Name_Card_525x295.png">
+    <img src="https://raw.githubusercontent.com/elite-cybersecurity-specialist/battle-hardened-ai/main/assets/ECS_Digital_Name_Card_525x295.png" alt="Elite Cybersecurity Specialist digital name card — Yuhisern Navaratnam" width="525">
+  </a>
+</p>
+
+**Email:** [Yuhisern@protonmail.com](mailto:Yuhisern@protonmail.com)<br>
+**WhatsApp:** [+60 17-279 1717](https://wa.me/60172791717)<br>
+**GitHub — Custom Secure Websites:** [Official repository](https://github.com/elite-cybersecurity-specialist/custom-secure-websites)<br>
+**GitHub — Battle-Hardened AI:** [Official repository](https://github.com/elite-cybersecurity-specialist/battle-hardened-ai)<br>
+**GitHub — Other Cybersecurity Projects:** [Elite Cybersecurity Specialist](https://github.com/elite-cybersecurity-specialist)<br>
+**Company Profile:** [Download PDF](https://github.com/elite-cybersecurity-specialist/company-profile/raw/refs/heads/main/pdf/ECS_Company_Profile.pdf)<br>
+**TikTok:** [@yuhisern](https://www.tiktok.com/@yuhisern)<br>
+**LinkedIn:** [linkedin.com/in/yuhisern](https://www.linkedin.com/in/yuhisern)<br>
+**X:** [x.com/yuhisern](https://x.com/yuhisern)
 
 > **HARDEN. TEST. VERIFY. IMPROVE.**  
 > We secure the hosting foundation, engineer security into the website, protect access and infrastructure, and verify that the defenses work.
