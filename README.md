@@ -21,6 +21,10 @@
   &nbsp;·&nbsp;
   <a href="https://github.com/elite-cybersecurity-specialist">Other Cybersecurity Subjects</a>
   &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/company/elite-cybersecurity-specialist/">LinkedIn Company Page</a>
+  &nbsp;·&nbsp;
+  <a href="https://elite-cybersecurity-specialist.blogspot.com">Official ECS Blog</a>
+  &nbsp;·&nbsp;
   <a href="mailto:Yuhisern@protonmail.com">Contact ECS</a>
 </p>
 
@@ -307,13 +311,16 @@ Our work is informed by **CIS Benchmarks, applicable DISA STIG/SRG guidance, OWA
 
 **Email:** [Yuhisern@protonmail.com](mailto:Yuhisern@protonmail.com)<br>
 **WhatsApp:** [+60 17-279 1717](https://wa.me/60172791717)<br>
+**GitHub — Company Profile:** [Official repository](https://github.com/elite-cybersecurity-specialist/company-profile)<br>
 **GitHub — Custom Secure Websites:** [Official repository](https://github.com/elite-cybersecurity-specialist/custom-secure-websites)<br>
 **GitHub — Battle-Hardened AI:** [Official repository](https://github.com/elite-cybersecurity-specialist/battle-hardened-ai)<br>
 **GitHub — Other Cybersecurity Projects:** [Elite Cybersecurity Specialist](https://github.com/elite-cybersecurity-specialist)<br>
 **Company Profile:** [Download PDF](https://github.com/elite-cybersecurity-specialist/company-profile/raw/refs/heads/main/pdf/ECS_Company_Profile.pdf)<br>
 **TikTok:** [@yuhisern](https://www.tiktok.com/@yuhisern)<br>
 **LinkedIn:** [linkedin.com/in/yuhisern](https://www.linkedin.com/in/yuhisern)<br>
-**X:** [x.com/yuhisern](https://x.com/yuhisern)
+**X:** [x.com/yuhisern](https://x.com/yuhisern)<br>
+**LinkedIn — ECS Company:** [Elite Cybersecurity Specialist](https://www.linkedin.com/company/elite-cybersecurity-specialist/)<br>
+**Official ECS Blog:** [ECS Cybersecurity Articles](https://elite-cybersecurity-specialist.blogspot.com)
 
 > **HARDEN. TEST. VERIFY. IMPROVE.**  
 > We secure the hosting foundation, engineer security into the website, protect access and infrastructure, and verify that the defenses work.
