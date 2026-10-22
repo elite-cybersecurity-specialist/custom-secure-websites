@@ -11,10 +11,6 @@
 <p align="center">Business Registration: <strong>202403184091 (MA0319303-P)</strong></p>
 
 <p align="center">
-  <img src="assets/ECS_Digital_Name_Card.png" alt="Official Elite Cybersecurity Specialist digital name card" width="720">
-</p>
-
-<p align="center">
   <a href="https://github.com/elite-cybersecurity-specialist/company-profile/raw/refs/heads/main/pdf/ECS_Company_Profile.pdf">Download Company Profile (PDF)</a>
   &nbsp;·&nbsp;
   <a href="https://github.com/elite-cybersecurity-specialist/company-profile">View Company Profile</a>
